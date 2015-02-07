@@ -8,7 +8,7 @@ object Frank {
 	def main(args: Array[String]) { 
 
 		
-		val conf = new SparkConf().setAppName("Chrysler Data")
+		val conf = new SparkConf().setAppName("Frank")
 		.set("spark.executor.memory", "13g")
 		.set("spark.storage.memoryFraction", "0.3")
 		.set("spark.shuffle.memoryFraction", "0.7")

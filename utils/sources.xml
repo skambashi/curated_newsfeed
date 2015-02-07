@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<opml version="1.0">
+<head>
+<title>Futurism subscriptions in Digg Reader</title>
+</head>
+<body>
+<outline title="Limited Selection" text="Limited Selection">
+<outline text="SciTech Daily" title="SciTech Daily" type="rss" xmlUrl="http://feeds.feedburner.com/scitechdaily" htmlUrl="http://scitechdaily.com" />
+<outline text="ScienceDaily: Latest Science News" title="ScienceDaily: Latest Science News" type="rss" xmlUrl="http://www.sciencedaily.com/newsfeed.xml" htmlUrl="http://www.sciencedaily.com/news/" />
+<outline text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" type="rss" xmlUrl="http://phys.org/rss-feed/" htmlUrl="http://phys.org/" />
+<outline text="ScienceDaily: Latest Science News" title="ScienceDaily: Latest Science News" type="rss" xmlUrl="http://feeds.sciencedaily.com/sciencedaily" htmlUrl="http://www.sciencedaily.com/news/" />
+<outline text="EurekAlert! - Breaking News" title="EurekAlert! - Breaking News" type="rss" xmlUrl="http://www.eurekalert.org/rss.xml" htmlUrl="http://www.eurekalert.org" />
+<outline text="KurzweilAI" title="KurzweilAI" type="rss" xmlUrl="http://www.kurzweilai.net/feed" htmlUrl="http://www.kurzweilai.net" />
+<outline text="SPACE.com" title="SPACE.com" type="rss" xmlUrl="http://feeds.feedburner.com/spaceheadlines" htmlUrl="http://www.space.com/" />
+<outline text="Singularity Hub" title="Singularity Hub" type="rss" xmlUrl="http://singularityhub.com/feed/" htmlUrl="http://singularityhub.com" />
+</outline>
+<outline title="Nature Journal Feeds" text="Nature Journal Feeds">
+<outline text="Nature Structural &amp; Molecular Biology - AOP - nature.com science feeds" title="Nature Structural &amp; Molecular Biology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nsmb/rss/aop" htmlUrl="http://www.nature.com/nsmb/current_issue/" />
+<outline text="New Structures by the Protein Structure Initiative" title="New Structures by the Protein Structure Initiative" type="rss" xmlUrl="http://www.sbkb.org/KB/whatsnew.rdf" htmlUrl="http://sbkb.org/kb/whatsnew.rdf" />
+<outline text="Spinal Cord - AOP - nature.com science feeds" title="Spinal Cord - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/sc/rss/aop" htmlUrl="http://www.nature.com/sc/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Nature Reviews Cancer - AOP - nature.com science feeds" title="Nature Reviews Cancer - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrc/rss/aop" htmlUrl="http://www.nature.com/nrc/current_issue/" />
+<outline text="Scientific Reports - nature.com science feeds" title="Scientific Reports - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/srep/rss/current" htmlUrl="http://www.nature.com/srep/rss/latest" />
+<outline text="Scientific Data - nature.com science feeds" title="Scientific Data - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/sdata/rss/current" htmlUrl="http://www.nature.com/sdata.rss" />
+<outline text="The Pharmacogenomics Journal - AOP - nature.com science feeds" title="The Pharmacogenomics Journal - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/tpj/rss/aop" htmlUrl="http://www.nature.com/tpj/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Molecular Therapy - AOP - nature.com science feeds" title="Molecular Therapy - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/mt/rss/aop" htmlUrl="http://www.nature.com/mt/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Neuropsychopharmacology - AOP - nature.com science feeds" title="Neuropsychopharmacology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/npp/rss/aop" htmlUrl="http://www.nature.com/npp/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Mucosal Immunology - AOP - nature.com science feeds" title="Mucosal Immunology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/mi/rss/aop" htmlUrl="http://www.nature.com/mi/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Laboratory Investigation - AOP - nature.com science feeds" title="Laboratory Investigation - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/labinvest/rss/aop" htmlUrl="http://www.nature.com/labinvest/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Modern Pathology - AOP - nature.com science feeds" title="Modern Pathology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/modpathol/rss/aop" htmlUrl="http://www.nature.com/modpathol/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Journal of Exposure Science and Environmental Epidemiology - AOP - nature.com science feeds" title="Journal of Exposure Science and Environmental Epidemiology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/jes/rss/aop" htmlUrl="http://www.nature.com/jes/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Journal of Human Genetics - AOP - nature.com science feeds" title="Journal of Human Genetics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/jhg/rss/aop" htmlUrl="http://www.nature.com/jhg/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Journal of Cerebral Blood Flow &amp; Metabolism - AOP - nature.com science feeds" title="Journal of Cerebral Blood Flow &amp; Metabolism - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/jcbfm/rss/aop" htmlUrl="http://www.nature.com/jcbfm/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Heredity - AOP - nature.com science feeds" title="Heredity - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/hdy/rss/aop" htmlUrl="http://www.nature.com/hdy/journal/vaop/ncurrent/rss.rdf" />
+<outline text="The Journal of Antibiotics - AOP - nature.com science feeds" title="The Journal of Antibiotics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ja/rss/aop" htmlUrl="http://www.nature.com/ja/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Gene Therapy - AOP - nature.com science feeds" title="Gene Therapy - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/gt/rss/aop" htmlUrl="http://www.nature.com/gt/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Immunology and Cell Biology - AOP - nature.com science feeds" title="Immunology and Cell Biology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/icb/rss/aop" htmlUrl="http://www.nature.com/icb/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Light: Science &amp; Applications" title="Light: Science &amp; Applications" type="rss" xmlUrl="http://feeds.nature.com/lsa/rss/current" htmlUrl="http://www.nature.com/lsa/current_issue/" />
+<outline text="Genes and Immunity - AOP - nature.com science feeds" title="Genes and Immunity - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/gene/rss/aop" htmlUrl="http://www.nature.com/gene/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Nature Reviews Immunology - AOP - nature.com science feeds" title="Nature Reviews Immunology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nri/rss/aop" htmlUrl="" />
+<outline text="Eye - AOP - nature.com science feeds" title="Eye - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/eye/rss/aop" htmlUrl="" />
+<outline text="Cellular &amp; Molecular Immunology - AOP - nature.com science feeds" title="Cellular &amp; Molecular Immunology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/cmi/rss/aop" htmlUrl="http://www.nature.com/cmi/journal/vaop/ncurrent/rss.rdf" />
+<outline text="European Journal of Human Genetics - AOP - nature.com science feeds" title="European Journal of Human Genetics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ejhg/rss/aop" htmlUrl="http://www.nature.com/ejhg/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Nature Reviews Neurology - AOP - nature.com science feeds" title="Nature Reviews Neurology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrneurol/rss/aop" htmlUrl="http://www.nature.com/nrneurol/current_issue/" />
+<outline text="Cell Death and Differentiation - AOP - nature.com science feeds" title="Cell Death and Differentiation - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/cdd/rss/aop" htmlUrl="http://www.nature.com/cdd/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Cell Research - AOP - nature.com science feeds" title="Cell Research - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/cr/rss/aop" htmlUrl="http://www.nature.com/cr/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Nature Reviews Microbiology - AOP - nature.com science feeds" title="Nature Reviews Microbiology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrmicro/rss/aop" htmlUrl="http://www.nature.com/nrmicro/current_issue/" />
+<outline text="Acta Pharmacologica Sinica - AOP - nature.com science feeds" title="Acta Pharmacologica Sinica - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/aps/rss/aop" htmlUrl="http://www.nature.com/aps/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Cancer Gene Therapy - AOP" title="Cancer Gene Therapy - AOP" type="rss" xmlUrl="http://feeds.nature.com/cgt/rss/aop" htmlUrl="http://www.nature.com/cgt/journal/vaop/ncurrent/rss.rdf" />
+<outline text="Nature Reviews Neuroscience - AOP - nature.com science feeds" title="Nature Reviews Neuroscience - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrn/rss/aop" htmlUrl="" />
+<outline text="Nature Reviews Molecular Cell Biology - AOP - nature.com science feeds" title="Nature Reviews Molecular Cell Biology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrm/rss/aop" htmlUrl="http://www.nature.com/nrm/current_issue/" />
+<outline text="Nature Genetics - AOP - nature.com science feeds" title="Nature Genetics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ng/rss/aop" htmlUrl="http://www.nature.com/ng/current_issue/" />
+<outline text="Nature Methods - AOP - nature.com science feeds" title="Nature Methods - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nmeth/rss/aop" htmlUrl="http://www.nature.com/nmeth/current_issue/" />
+<outline text="Nature Reviews Drug Discovery - AOP - nature.com science feeds" title="Nature Reviews Drug Discovery - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nrd/rss/aop" htmlUrl="http://www.nature.com/nrd/current_issue/" />
+<outline text="Nature Physics - AOP - nature.com science feeds" title="Nature Physics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nphys/rss/aop" htmlUrl="http://www.nature.com/nphys/current_issue/" />
+<outline text="Nature Neuroscience - AOP - nature.com science feeds" title="Nature Neuroscience - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/neuro/rss/aop" htmlUrl="http://www.nature.com/neuro/current_issue/" />
+<outline text="Nature - AOP - nature.com science feeds" title="Nature - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nature/rss/aop" htmlUrl="http://www.nature.com/nature/current_issue/" />
+<outline text="Nature Medicine - AOP - nature.com science feeds" title="Nature Medicine - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nm/rss/aop" htmlUrl="http://www.nature.com/nm/current_issue/" />
+<outline text="Nature Photonics - AOP - nature.com science feeds" title="Nature Photonics - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nphoton/rss/aop" htmlUrl="http://www.nature.com/nphoton/current_issue/" />
+<outline text="Nature Materials - AOP - nature.com science feeds" title="Nature Materials - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nmat/rss/aop" htmlUrl="http://www.nature.com/nmat/current_issue/" />
+<outline text="Nature Geoscience - AOP - nature.com science feeds" title="Nature Geoscience - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ngeo/rss/aop" htmlUrl="http://www.nature.com/ngeo/current_issue/" />
+<outline text="Nature Immunology - AOP - nature.com science feeds" title="Nature Immunology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ni/rss/aop" htmlUrl="http://www.nature.com/ni/current_issue/" />
+<outline text="Nature Climate Change - AOP - nature.com science feeds" title="Nature Climate Change - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nclimate/rss/aop" htmlUrl="http://www.nature.com/nclimate/rss/aop" />
+<outline text="Nature Biotechnology - AOP - nature.com science feeds" title="Nature Biotechnology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nbt/rss/aop" htmlUrl="http://www.nature.com/nbt/current_issue/" />
+<outline text="Nature Chemistry AOP - nature.com science feeds" title="Nature Chemistry AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nchem/rss/aop" htmlUrl="http://www.nature.com/nchem/current_issue/" />
+<outline text="Nature Chemical Biology - AOP - nature.com science feeds" title="Nature Chemical Biology - AOP - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/nchembio/rss/aop" htmlUrl="http://www.nature.com/nchembio/current_issue/" />
+</outline>
+<outline title="Breaking News" text="Breaking News">
+<outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="http://www.extremetech.com/feed" htmlUrl="http://www.extremetech.com" />
+<outline text="Breaking Science News | Sci-News.com" title="Breaking Science News | Sci-News.com" type="rss" xmlUrl="http://www.sci-news.com/feed" htmlUrl="http://www.sci-news.com" />
+<outline text="ABC: Latest News in Science" title="ABC: Latest News in Science" type="rss" xmlUrl="http://www.abc.net.au/science/news/topic/latest/latest.xml" htmlUrl="http://www.abc.net.au/science/news/default.htm?topic=latest" />
+<outline text="science" title="science" type="rss" xmlUrl="http://www.reddit.com/r/science/.rss" htmlUrl="http://www.reddit.com/r/science/" />
+<outline text="/r/space: news, articles, images, and discussion" title="/r/space: news, articles, images, and discussion" type="rss" xmlUrl="http://www.reddit.com/r/space/.rss" htmlUrl="" />
+<outline text="Technology" title="Technology" type="rss" xmlUrl="http://www.reddit.com/r/technology.rss" htmlUrl="http://www.reddit.com/r/technology/" />
+<outline text="Scientific American - Technology" title="Scientific American - Technology" type="rss" xmlUrl="http://rss.sciam.com/sciam/technology" htmlUrl="http://www.scientificamerican.com" />
+<outline text="Future(s) Studies" title="Future(s) Studies" type="rss" xmlUrl="http://www.reddit.com/r/Futurology/.rss" htmlUrl="http://www.reddit.com/r/Futurology/" />
+<outline text="silicon.com : News" title="silicon.com : News" type="rss" xmlUrl="http://feeds.feedburner.com/silicon/news/20" htmlUrl="http://www.silicon.com/" />
+<outline text="SpaceRef Top Stories" title="SpaceRef Top Stories" type="rss" xmlUrl="http://www.spaceref.com/rss/topstories.xml" htmlUrl="http://www.spaceref.com/" />
+<outline text="Universe Today" title="Universe Today" type="rss" xmlUrl="http://feeds.feedburner.com/universetoday/pYdq" htmlUrl="http://www.universetoday.com" />
+<outline text="Space News From SpaceDaily.Com" title="Space News From SpaceDaily.Com" type="rss" xmlUrl="http://www.spacedaily.com/spacedaily.xml" htmlUrl="http://www.spacedaily.com/index.html" />
+<outline text="The Scientist RSS" title="The Scientist RSS" type="rss" xmlUrl="http://www.the-scientist.com/?rss.feed/" htmlUrl="" />
+<outline text="Scientific American - Space" title="Scientific American - Space" type="rss" xmlUrl="http://rss.sciam.com/sciam/space" htmlUrl="http://www.scientificamerican.com" />
+<outline text="Biology News Net" title="Biology News Net" type="rss" xmlUrl="http://feeds.biologynews.net/biologynews/headlines" htmlUrl="http://www.biologynews.net/" />
+<outline text="Latest Headlines | Science News" title="Latest Headlines | Science News" type="rss" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" htmlUrl="https://www.sciencenews.org/" />
+<outline text="Space" title="Space" type="rss" xmlUrl="http://www.redorbit.com/feeds/space.xml" htmlUrl="http://www.redorbit.com/news/space/" />
+<outline text="Sci DEV NET" title="Sci DEV NET" type="rss" xmlUrl="http://www.scidev.net/global/global_rss.xml" htmlUrl="http://www.scidev.net/global/" />
+<outline text="Technology" title="Technology" type="rss" xmlUrl="http://www.redorbit.com/feeds/technology.xml" htmlUrl="http://www.redorbit.com/news/technology/" />
+<outline text="NatureNews - Most recent articles - nature.com science feeds" title="NatureNews - Most recent articles - nature.com science feeds" type="rss" xmlUrl="http://www.nature.com/news/rss.rdf" htmlUrl="http://www.nature.com/nature/rdf/news/most-recent" />
+<outline text="Science" title="Science" type="rss" xmlUrl="http://www.redorbit.com/feeds/science.xml" htmlUrl="http://www.redorbit.com/news/science/" />
+<outline text="Newswise: MedNews" title="Newswise: MedNews" type="rss" xmlUrl="http://www.newswise.com/rss/mednews.rss" htmlUrl="http://www.newswise.com/libraries/mednews/" />
+<outline text="Phys.org: Feature story" title="Phys.org: Feature story" type="rss" xmlUrl="http://phys.org/rss-feed/editorials/" htmlUrl="http://phys.org/" />
+<outline text="Newswise: SciNews" title="Newswise: SciNews" type="rss" xmlUrl="http://www.newswise.com/rss/scinews.rss" htmlUrl="http://www.newswise.com/libraries/scinews/" />
+<outline text="Science" title="Science" type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1007" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1007&amp;ft=1&amp;f=1007" />
+<outline text="National Geographic News: Science &amp; Technology" title="National Geographic News: Science &amp; Technology" type="rss" xmlUrl="http://xml.newsisfree.com/feeds/86/3486.xml" htmlUrl="http://news.nationalgeographic.com/news/science.html" />
+<outline text="Discovery News - Tech News" title="Discovery News - Tech News" type="rss" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fdsc.discovery.com%2Fnews%2Fsubjects%2Ftech%2Fxml%2Ftop-stories.xml&amp;max=10" htmlUrl="http://dsc.discovery.com/news/subjects/tech/xml/top-stories.xml" />
+<outline text="National Geographic News - Space" title="National Geographic News - Space" type="rss" xmlUrl="http://news.nationalgeographic.com/rss/space.rss" htmlUrl="http://news.nationalgeographic.com" />
+<outline text="National Geographic News - Science" title="National Geographic News - Science" type="rss" xmlUrl="http://news.nationalgeographic.com/rss/science.rss" htmlUrl="http://news.nationalgeographic.com/" />
+<outline text="NBCNews.com: Future of Tech" title="NBCNews.com: Future of Tech" type="rss" xmlUrl="http://www.msnbc.msn.com/id/9548203/device/rss/rss.xml" htmlUrl="http://www.nbcnews.com/id/9548204/ns/technology_and_science-innovation/" />
+<outline text="msnbc.com: Technology &amp; Science" title="msnbc.com: Technology &amp; Science" type="rss" xmlUrl="http://www.msnbc.msn.com/id/3032117/device/rss/" htmlUrl="http://www.nbcnews.com/id/3032118/ns/technology_and_science/" />
+<outline text="KurzweilAI.net Accelerating Intelligence News" title="KurzweilAI.net Accelerating Intelligence News" type="rss" xmlUrl="http://www.kurzweilai.net/news/rss/" htmlUrl="http://www.kurzweilai.net" />
+<outline text="EurekAlert! - Technology, Engineering and Computer Science" title="EurekAlert! - Technology, Engineering and Computer Science" type="rss" xmlUrl="http://www.eurekalert.org/rss/technology_engineering.xml" htmlUrl="http://www.eurekalert.org" />
+<outline text="ACS Nano: Latest Articles (ACS Publications)" title="ACS Nano: Latest Articles (ACS Publications)" type="rss" xmlUrl="http://pubs.acs.org/action/showFeed?ui=0&amp;mi=0&amp;ai=54j&amp;jc=ancac3&amp;type=etoc&amp;feed=rss" htmlUrl="http://pubs.acs.org" />
+<outline text="Eureka! Science News - Popular science news" title="Eureka! Science News - Popular science news" type="rss" xmlUrl="http://feeds.esciencenews.com/eScienceNews/popular" htmlUrl="http://esciencenews.com" />
+<outline text="Journal of the American Chemical Society: Latest Articles (ACS Publications)" title="Journal of the American Chemical Society: Latest Articles (ACS Publications)" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jacsat" htmlUrl="http://pubs.acs.org" />
+<outline text="Environmental News Network" title="Environmental News Network" type="rss" xmlUrl="http://feeds.feedburner.com/EnvironmentalNewsNetwork" htmlUrl="http://www.enn.com/topics/top_stories" />
+<outline text="COSMOS magazine - Technology" title="COSMOS magazine - Technology" type="rss" xmlUrl="http://www.cosmosmagazine.com/rss/news/tech" htmlUrl="http://www.cosmosmagazine.com" />
+<outline text="COSMOS" title="COSMOS" type="rss" xmlUrl="http://www.cosmosmagazine.com/rss/news" htmlUrl="http://www.cosmosmagazine.com" />
+<outline text="CNN.com - Science &amp; Space" title="CNN.com - Science &amp; Space" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_space.rss" htmlUrl="http://www.cnn.com/TECH/space/?eref=rss_space" />
+<outline text="CNN.com - Technology" title="CNN.com - Technology" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_tech.rss" htmlUrl="http://www.cnn.com/TECH/index.html?eref=rss_tech" />
+<outline text="Science Current Events | Science News | Brightsurf.com" title="Science Current Events | Science News | Brightsurf.com" type="rss" xmlUrl="http://www.brightsurf.com/rss_feed.xml" htmlUrl="http://www.brightsurf.com" />
+<outline text="BBC News - Technology" title="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" />
+<outline text="Archaeological News to RSS" title="Archaeological News to RSS" type="rss" xmlUrl="http://feedity.com/rss.aspx/archaeologica-org/UVRVUFtW" htmlUrl="http://www.archaeologica.org/NewsPage.htm" />
+<outline text="BBC News - Science &amp; Environment" title="BBC News - Science &amp; Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="http://www.bbc.co.uk/news/science_and_environment/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" />
+<outline text="AlphaGalileo Custom RSS Feed -- Categories: Science." title="AlphaGalileo Custom RSS Feed -- Categories: Science." type="rss" xmlUrl="http://alphagalileo.org/Rss_Channels/Feed.aspx?Topic=Science" htmlUrl="http://alphagalileo.org" />
+<outline text="AlphaGalileo Applied science RSS Channel" title="AlphaGalileo Applied science RSS Channel" type="rss" xmlUrl="http://www.alphagalileo.org/Rss_Channels/Feed.aspx?Topic=Applied%20science" htmlUrl="http://www.alphagalileo.org" />
+<outline text="ABC News: Technology" title="ABC News: Technology" type="rss" xmlUrl="http://feeds.abcnews.com/abcnews/technologyheadlines" htmlUrl="http://abcnews.go.com/Technology/" />
+</outline></body>
+
+</opml>

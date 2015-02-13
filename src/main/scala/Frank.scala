@@ -6,15 +6,7 @@ import curated_newsfeed.Feeder
 object Frank {
 
 	def main(args: Array[String]) { 
-		val conf = new SparkConf().setAppName("Frank")
-		.set("spark.executor.memory", "13g")
-		.set("spark.storage.memoryFraction", "0.3")
-		.set("spark.shuffle.memoryFraction", "0.7")
-		.set("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
-		.set("spark.eventLog.enabled", "true")
-		.set("spark.eventLog.dir", "/home/hadoop/spark/logs/")
-		.set("spark.core.containsxection.ack.wait.timeout", "12000") /* 20 minutes */
-		.set("spark.shuffle.manager", "sort")
+		val conf = new SparkConf().setAppName("Frank")	
 		val sc = new SparkContext(conf)
 		
 		val feed = Feeder

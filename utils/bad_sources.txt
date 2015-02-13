@@ -1,0 +1,9 @@
+http://singularityhub.com/feed/
+http://feeds.nature.com/~r/nri/rss/aop/~3/yL-2CRDFzSQ/nri3821
+http://feeds.nature.com/~r/nrd/rss/aop/~3/KeAES5k8yRs/nrd4320-c1
+http://feeds.nature.com/~r/nphoton/rss/aop/~3/MwAd4xh03LE/nphoton.2015.6
+http://www.spacedaily.com/spacedaily.xml
+http://dsc.discovery.com/news/subjects/tech/xml/top-stories.xml
+http://www.cosmosmagazine.com/rss/news/tech
+http://www.cosmosmagazine.com/rss/news
+http://www.brightsurf.com/rss_feed.xml

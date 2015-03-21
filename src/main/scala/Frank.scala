@@ -11,6 +11,6 @@ object Frank {
 		
 		val feed = Feeder
 		val sources = sc.parallelize(feed.getArticles())
-
+		
 	}
 }

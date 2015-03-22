@@ -6,7 +6,7 @@ import scala.io.Source
 package curated_newsfeed {
   object Feeder {
 
-    val source_uri = "utils/sources.xml"
+    val source_uri = "/Users/shayanmasood/projects/frank/utils/sources.xml"
     
     //Read XML RSS feeds
     def parseFile(): Seq[String] = {
@@ -19,30 +19,33 @@ package curated_newsfeed {
     }
 
     //Parse feed to return [title, pubDate, link]
-    def parseFeed(source: String): Seq[Tuple3[String, String, String]] = {
+    def parseFeed(source: String, articles: ListBuffer[Tuple4[String, String, String,String]]) ={
       val items = XML.load(source) \\ "item"
-      var articles = new ListBuffer[Tuple3[String, String, String]]
+      val pattern = "(<([^>]+)>)".r
+    
       for (item <- items) {
-        val title = (item \\ "title").text.trim()
-        val pubDate = (item \\ "pubDate").text.trim()
-        val link = (item \\ "link").text.trim()
-        articles += Tuple3(title, pubDate, link)
+        val title = (item \\ "title").text.trim().toString
+        val pub_date = (item \\ "pubDate").text.trim().toString
+        val link = (item \\ "link").text.trim().toString
+        val desc = (pattern replaceAllIn ((item \\ "description" ).text.trim(),"")).trim().toString
+        if (!title.isEmpty && !pub_date.isEmpty && !link.isEmpty && !desc.isEmpty) {
+          articles += Tuple4(title, pub_date, link, desc)
+        }
       }
       if (articles.length < 5) {
         println("WARNING | source is shit : " + source)
       }
-      return articles.toSeq
     }
 
     //Load bad sources logged previously to prevent 403s/404s/401s
    
 
     //Get all articles	
-    def getArticles(): Seq[Seq[Tuple3[String, String, String]]] = {
+    def getArticles(): Seq[Tuple4[String, String, String,String]] = {
       val sources = parseFile()
-      val articles = new ListBuffer[Seq[Tuple3[String, String, String]]]
+      val articles = new ListBuffer[Tuple4[String, String, String,String]]
       for (source <- sources) {
-        try { articles += parseFeed(source) }
+        try { parseFeed(source, articles) }
         catch {
           case e: Exception =>
             println("Exception while reading sources : " + e + "\nURL : " + source)

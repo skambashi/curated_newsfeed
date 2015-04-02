@@ -6,7 +6,7 @@ import scala.io.Source
 package curated_newsfeed {
   object Feeder {
 
-    val source_uri = "/Users/shayanmasood/projects/frank/utils/sources.xml"
+    val source_uri = "/home/smasood/sources.xml"
     
     //Read XML RSS feeds
     def parseFile(): Seq[String] = {

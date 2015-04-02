@@ -36,6 +36,7 @@ object Frank {
       id_article_map += Tuple2(r._1,r._2)
     })
 
+    // LDA Model
     val ldaModel = new LDA().setK(10).run(wc_feed)
     println("Learned topics (as distributions over vocab of " + ldaModel.vocabSize + " words):")
     val topics = ldaModel.topicDistributions
@@ -52,6 +53,32 @@ object Frank {
       })
       .filter(r => r._1 != -1)
       .reduceByKey((a,b) => (a ++ b))
+
+    // Jaccard Index
+    val articles_words = articles.map (r => {
+      val words = r._2._4.split("\\s+",-1).map(word=> {
+        val special_chars = "[^\\dA-Za-z ]".r
+        special_chars.replaceAllIn(word.toLowerCase,"")
+      }).distinct.toSet
+      Tuple2(r._1, words)
+    })
+
+    val article_map:HashMap[Tuple2[Int,Int],Double] = new HashMap()
+    
+    // Jaccard Matrix
+    val jaccard_matrix = articles_words.foreach (a => {
+      val jaccard_index = articles_words.foreach (b => {
+        if (a._1 != b._1) {
+          val key = Tuple2(a._1,b._1)
+          if (!(article_map.contains(key) || article_map.contains(key.swap))) {
+            val intersect = a._2.intersect(b._2).size
+            val union = a._2.union(b._2).size
+            val score = intersect.toDouble/union.toDouble
+            article_map += Tuple2(key,score)
+          }
+        }
+      })
+    })
   }
 }
 
